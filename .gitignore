@@ -1,2 +1,4 @@
 secret*
 controlplane.*
+worker.*
+talosconfig
